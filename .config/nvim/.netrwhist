@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/cameron/Programs/Rust/Training_Exercises'
+let g:netrw_dirhist_8='/home/cameron/Programs'
+let g:netrw_dirhist_7='/home/cameron/Programs/Python'
+let g:netrw_dirhist_6='/home/cameron/Programs/Python/ECS101'
+let g:netrw_dirhist_5='/home/cameron/Programs/Rust/Personal/roguelike/src'
+let g:netrw_dirhist_4='/home/cameron/Programs/Rust/Personal/roguelike'
+let g:netrw_dirhist_3='/home/cameron/Programs/Rust/Personal/roguelike/src'
+let g:netrw_dirhist_2='/home/cameron/Programs/Rust/Personal/roguelike'
+let g:netrw_dirhist_1='/home/cameron/Programs/Rust/Personal/roguelike/src'
+let g:netrw_dirhist_0='/home/cameron/Programs/Rust/Personal/roguelike'
